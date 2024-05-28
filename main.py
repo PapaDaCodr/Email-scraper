@@ -5,8 +5,8 @@ from email.header import decode_header
 import re
 
 # Replace with your email details
-EMAIL = "dukeoriginal6@gmail.com"
-PASSWORD = "duzt argc dock nnee"
+EMAIL = ""
+PASSWORD = ""
 IMAP_SERVER = "imap.gmail.com"
 IMAP_PORT = 993
 
